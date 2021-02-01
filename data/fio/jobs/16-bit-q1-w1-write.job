@@ -5,7 +5,7 @@ size=5g
 directory=/mnt
 iodepth=1
 direct=1
-blocksize=512kk
+blocksize=512k
 group_reporting
 ioengine=sync
 runtime=300
